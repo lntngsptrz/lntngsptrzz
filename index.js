@@ -17,7 +17,7 @@ const BotName = 'LNTNGSPTRZ';
 const instagram = 'https://instagram.com/lntngsptrz'; 
 const telegram = 'https://t.me/lntngsptrzz'; 
 const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
-const youtube = 'https://www.youtube.com/c/reuz_id';
+const youtube = 'https://www.youtube.com/c/Lntngsptrz';
 //const grupch1 = 'https://chat.whatsapp.com/Gr65AhqSx8ZJwiz3t1LQEF'; 
 //const grupch2 = 'https://chat.whatsapp.com/IDIG2o7uzECE3irXLyKrkS' ; 
 const
